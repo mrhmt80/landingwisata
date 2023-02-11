@@ -1,4 +1,4 @@
-# kulineran
+# Weesataa
 
 ## Project setup
 ```
